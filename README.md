@@ -10,14 +10,19 @@ An **Admin Dashboard** is also included, allowing administrators to manage produ
 
 ## 🌐 Demo
 
-| Application          | Link                     |
-| -------------------- | ------------------------ |
-| 🛍️ User Application | [**Live Demo**](#)       |
-| 🔐 Admin Dashboard   | [**Admin Dashboard**](#) |
+| Application                 | Live Link                                                                           |
+| --------------------------- | ----------------------------------------------------------------------------------- |
+| 🛍️ **User E-Commerce App** | [Live Demo](https://forever-frontend-delta-five.vercel.app/?utm_source=chatgpt.com) |
+| 🔐 **Admin Dashboard**      | [Admin Dashboard](https://forever-admin-jet.vercel.app/?utm_source=chatgpt.com)     |
 
-> Replace the `#` placeholders with your deployed application URLs.
+### 🛍️ User Application
 
----
+[https://forever-frontend-delta-five.vercel.app/](https://forever-frontend-delta-five.vercel.app/?utm_source=chatgpt.com)
+
+### 🔐 Admin Dashboard
+
+[https://forever-admin-jet.vercel.app/](https://forever-admin-jet.vercel.app/?utm_source=chatgpt.com)
+
 
 ## 📋 Table of Contents
 
